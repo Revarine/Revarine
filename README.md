@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋
+``` console
+  ┌──(revarine@RevarinePC)-[~]
+  └─  $ cat revarine.txt
+╾  Alexander Sakovich
+╾  .Net Developer
+╾  to be continued 🤙
+```
+## Useful things that I keep here :d
 
-<!--
-**Revarine/Revarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ============ 1 ============ -->
 
-Here are some ideas to get you started:
+<details>
+<summary> <h3> my <code>.gitconfig</code> aliases: </h3></summary>
+  
+``` .gitconfig
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[alias]
+s = status --short
+st = status
+co = checkout
+cod = checkout .
+aa = add -A
+pr = pull --rebase
+br = branch -a
+l = log --oneline --graph --decorate
+graph = log --graph --abbrev-commit --decorate --all --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(dim white) - %an%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n %C(white)%s%C(reset)'
+
+```
+
+</details>
+<!-- ============ 2 ============ -->
+<details>
+  <summary> <h3>useful <code>c#</code> resources</h3></summary>
+
+  - [coreclr Book of the Runtime](https://github.com/dotnet/coreclr/tree/master/Documentation/botr)
+  - [sidristij/dotnetbook](https://github.com/sidristij/dotnetbook/blob/master/book/ru/readme.md)
+  - [C# at Google Style Guide](https://google.github.io/styleguide/csharp-style.html)
+    
+</details>
+
+<!-- ============ 3 ============ -->
+---
+# Under construction 🚧
+---
