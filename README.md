@@ -1,6 +1,6 @@
 # Hi there 👋
 ``` console
-  ┌──(revarine@RevarinePC)-[~]
+  ┌──(revarine@github.com)-[~]
   └─  $ cat revarine.txt
 ╾  Alexander Sakovich
 ╾  .Net Developer
