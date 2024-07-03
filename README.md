@@ -19,12 +19,13 @@
 s = status --short
 st = status
 co = checkout
-cod = checkout .
+cm = commit -m
 aa = add -A
 pr = pull --rebase
-br = branch -a
+b = branch
+ba = branch -a
 l = log --oneline --graph --decorate
-gr = log --graph --abbrev-commit --decorate --all --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(dim white) - %an%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n %C(white)%s%C(reset)'
+g = log --graph --abbrev-commit --decorate --all --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(dim white) - %an%C(reset) %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n %C(white)%s%C(reset)'
 
 ```
 
