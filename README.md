@@ -3,7 +3,6 @@
   ┌──(revarine@github.com)-[~]
   └─  $ cat revarine.txt
 ╾  Alexander Sakovich
-╾  .Net Developer
 ╾  to be continued 🤙
 ```
 ## Useful things that I keep here :d
